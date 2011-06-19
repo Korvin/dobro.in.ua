@@ -49,6 +49,12 @@
 <node CREATED="1308508190998" ID="ID_236987822" MODIFIED="1308508266518" STYLE="fork" TEXT="&#x421;&#x442;&#x432;&#x43e;&#x440;&#x435;&#x43d;&#x43d;&#x44f; &#x43f;&#x440;&#x43e;&#x435;&#x43a;&#x442;&#x443;">
 <icon BUILTIN="button_ok"/>
 </node>
+<node CREATED="1308509101459" ID="ID_291735140" MODIFIED="1308509244635" STYLE="fork" TEXT="&#x411;&#x430;&#x437;&#x430; &#x434;&#x430;&#x43d;&#x438;&#x445;">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1308509251288" ID="ID_840982725" MODIFIED="1308513412329" STYLE="fork" TEXT="&#x422;&#x435;&#x441;&#x442;&#x443;&#x432;&#x430;&#x43d;&#x43d;&#x44f;">
+<icon BUILTIN="button_ok"/>
+</node>
 </node>
 </node>
 </map>
